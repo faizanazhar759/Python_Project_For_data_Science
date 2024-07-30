@@ -1,1 +1,2 @@
 # Python_Project_For_data_Science
+This is the Part of IBM Data science course . Basically , what we did here was we use python language that we learn in the previuose par Python for Data Science and Ai , and did webscraping with beautifull soap library and we also use pandas library and uses different attributes and functions of it. The data we used is publically avaible on yahoo and did retrieve it with the help of yfinance library . 
